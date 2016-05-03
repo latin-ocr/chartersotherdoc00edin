@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chartersotherdoc00edin_0033.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 318 1058 1430 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 318 1058 1430 1108">
+     <span class='ocr_line' id='line_1_1' title="bbox 318 1058 1430 1108; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 318 1060 631 1108; x_wconf 81' lang='lat' dir='ltr'><strong>CHARTERS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1061 789 1108; x_wconf 89' lang='lat' dir='ltr'><strong>AND</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 826 1060 1029 1107; x_wconf 85' lang='lat' dir='ltr'>OTHER</span> <span class='ocrx_word' id='word_1_4' title='bbox 1064 1058 1430 1106; x_wconf 83' lang='lat' dir='ltr'>DOCUMENTS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 395 1377 1352 1432">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 395 1377 1352 1432">
+     <span class='ocr_line' id='line_1_2' title="bbox 395 1377 1352 1432; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 395 1378 535 1431; x_wconf 85' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 581 1378 738 1431; x_wconf 80' lang='lat' dir='ltr'>CITY</span> <span class='ocrx_word' id='word_1_7' title='bbox 780 1378 864 1432; x_wconf 87' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 908 1377 1352 1430; x_wconf 82' lang='lat' dir='ltr'><strong>EDINBURGH.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
